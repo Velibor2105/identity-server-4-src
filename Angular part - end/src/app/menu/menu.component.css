@@ -1,0 +1,10 @@
+ul a.active{
+    font-weight: bold;
+    font-style: italic;
+    color: #fff;
+}
+
+.signout { 
+    float: right;
+    margin-left: 600px;
+}
